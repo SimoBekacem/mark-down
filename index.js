@@ -21,6 +21,7 @@ let img2 = document.querySelector(".q2 img");
 let img3 = document.querySelector(".q3 img");
 let img4 = document.querySelector(".q4 img");
 
+/*commentaire*/
 
 function inder_line(x){
     if(x == 0){
